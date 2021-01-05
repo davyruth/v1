@@ -27,7 +27,7 @@ class CalendlyWidget extends Component {
         <div>
             <CustomButton onPress={this.handleEvent}>
             <ion-icon name="calendar" id="calendar-button-icon"></ion-icon>
-            Schedule Repair Meeting
+            Schedule your repair
             </CustomButton>
         </div>
         );
